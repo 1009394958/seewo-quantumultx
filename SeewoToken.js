@@ -1,1 +1,104 @@
-LyoKICog5bi45rO4IFRva2VuIOiOt+WPluizh+acrCAtLSBmb3IgUXVhbnR1bXVsdCBYCiAqCiAqIOaQreeUqOa4rzFdKHNjcmlwdC1yZXNwb25zZS1ib2R577yM5o2V6IqC55m75b2V6L+e5bqm77yM5o+Q5Y+WIFRva2VuCiAqIOWPguaVsO+8miB1cmwgc2NyaXB0LXJlc3BvbnNlLWJvZHkgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzEwMDkzOTQ5NTgvc2Vld28tcXVhbnR1bXVsdHgvbWFpbi9TZWV3b1Rva2VuLmpzCiAqCiAqIOaQreeUqOa4rzJdKHNjcmlwdC1yZXF1ZXN0LWhlYWRlcikg5LuOIE9yIGhlYWRlcnMg5Lit5o+Q5Y+WIHgtYXV0aC10b2tlbgogCiAqIOi/kOeoi+aMh+W9lQogKiDmiYDlgZrlv4XoibLpgILlnKggJGRvbmUoKSDnmoTnuqflh7rkuobov5Dliqjov4fmu6TvvIzlkKbliJnocIkkZG9uZSgpIOaXoOazleWQjOS4gOato+ivreWPkeS7pe+8gQogKi8KCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOmFjee9rgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKY29uc3QgVE9LRU5fS0VZID0gJ3NlZXdvX3hfYXV0aF90b2tlbic7CmNvbnN0IFVTRVJfS0VZICA9ICdzZWV3b191c2VyX2luZm8nOwpjb25zdCBUSVRMRSAgICAgPSAn5bi45rO4IFRva2VuJzsKCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOaPkOWPluWHveaVsAovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKZnVuY3Rpb24gZXh0cmFjdFRva2VuKGJvZHkpIHsKICB0cnkgewogICAgY29uc3QgZCA9IEpTT04ucGFyc2UoYm9keSk7CiAgICByZXR1cm4gZD8uZGF0YT8udG9rZW4gfHwgbnVsbDsKICB9IGNhdGNoIChlKSB7CiAgICBjb25zb2xlLmxvZygncGFyc2UgZXJyb3I6ICcgKyBlLm1lc3NhZ2UpOwogICAgcmV0dXJuIG51bGw7CiAgfQp9CgpmdW5jdGlvbiBleHRyYWN0VXNlcihib2R5KSB7CiAgdHJ5IHsKICAgIGNvbnN0IHUgPSBKU09OLnBhcnNlKGJvZHkpLmRhdGE/LnVzZXI7CiAgICBpZiAoIXUpIHJldHVybiBudWxsOwogICAgcmV0dXJuIHsgdWlkOiB1LnVpZCwgbmlja05hbWU6IHUubmlja05hbWUsIHJlYWxOYW1lOiB1LnJlYWxOYW1lLCBhY2NvdW50SWQ6IHUuYWNjb3VudElkLCB1bml0SWQ6IHUudW5pdElkIH07CiAgfSBjYXRjaCB7IHJldHVybiBudWxsOyB9Cn0KCmZ1bmN0aW9uIHRva2VuRnJvbUNvb2tpZShjb29raWUpIHsKICBjb25zdCBtID0gY29va2llPy5tYXRjaCgvKD86Xnw7KVxzeC1hdXRoLXRva2VuPShbXjtdKykvKTsKICByZXR1cm4gbSA/IG1bMV0gOiBudWxsOwp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyDlpITnkIblh73mlbAKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCi8qKiBzY3JpcHQtcmVzcG9uc2UtYm9kee+8muS7jueZu+W9leW6j+S4reaPkOWPlkbBSHRva2VuICovCmZ1bmN0aW9uIG9uUmVzcG9uc2UoYm9keSkgewogIGNvbnN0IHRva2VuID0gZXh0cmFjdFRva2VuKGJvZHkpOwogIGlmICh0b2tlbikgewogICAgJHByZWZzLnNldFZhbHVlRm9yS2V5KHRva2VuLCBUT0tFTl9LRVkpOwogICAgY29uc3QgdXNlciA9IGV4dHJhY3RVc2VyKGJvZHkpOwogICAgaWYgKHVzZXIpICRwcmVmcy5zZXRWYWx1ZUZvcktleShKU09OLnN0cmluZ2lmeSh1c2VyKSwgVVNFUl9LRVkpOwogICAgJG5vdGlmaWNhdGlvbi5wb3N0KFRJVExFLCAnVG9rZW4g6Iez5Y+W5oiQ5YqfJywgdG9rZW4uc3Vic3RyaW5nKDAsIDIwKSArICcuLi4nKTsKICAgIGNvbnNvbGUubG9nKCd0b2tlbiBzYXZlZDogJyArIHRva2VuKTsKICB9IGVsc2UgewogICAgJG5vdGlmaWNhdGlvbi5wb3N0KFRJVExFLCAn6Iez5Y+W5aSx6LSlJywgJ+WThuS4reaKleaWsCB0b2tlbiDlrZfmrrUnKTsKICB9CiAgJGRvbmUoeyBib2R5IH0pOyAgIC8vIOKGkCBY5b+F6Imy6YCC5ZyoICRkb25lKCkKfQoKLyoqIHNjcmlwdC1yZXF1ZXN0LWhlYWRlcue8uuS7jiBDb29raWUg5Lit5o+Q5Y+WIHRva2VuICovCmZ1bmN0aW9uIG9uUmVxdWVzdChoZWFkZXJzKSB7CiAgY29uc3QgY29va2llID0gaGVhZGVyc1snQ29va2llJ10gfHwgaGVhZGVyc1snY29va2llJ10gfHwgJyc7CiAgY29uc3QgdG9rZW4gPSB0b2tlbkZyb21Db29raWUoY29va2llKTsKICBpZiAodG9rZW4pIHsKICAgIGNvbnN0IG9sZCA9ICRwcmVmcy52YWx1ZUZvcktleShUT0tFTl9LRVkpOwogICAgaWYgKG9sZCAhPT0gdG9rZW4pIHsKICAgICAgJHByZWZzLnNldFZhbHVlRm9yS2V5KHRva2VuLCBUT0tFTl9LRVkpOwogICAgICAkbm90aWZpY2F0aW9uLnBvc3QoSVRJTEUsICdUb2tlbiDlt7Lot7PmlrAnLCB0b2tlbi5zdWJzdHJpbmcoMCwgMjApICsgJy4uLicpOwogICAgfQogIH0KICAkZG9uZSgkcmVxdWVzdCk7ICAgLy8g4oaQIFjlv4XoibLpgILlnKggJGRvbmUoKQp9CgovKiog6JiH5Yqo6L+Q6KGM77ya5p+l55yL5bey5L+d5a2Y55qEIFRva2VuICovCmZ1bmN0aW9uIG9uTWFudWFsKCkgewogIGNvbnN0IHRva2VuID0gJHByZWZzLnZhbHVlRm9yS2V5KFRPS0VOX0tFWSk7CiAgaWYgKHRva2VuKSB7CiAgICBjb25zb2xlLmxvZygnVG9rZW46ICcgKyB0b2tlbik7CiAgICAkbm90aWZpY2F0aW9uLnBvc3QoSVRJTEUsICflt7Lkv53lrZjnmoQgVG9rZW4nLCB0b2tlbik7CiAgfSBlbHNlIHsKICAgICRub3RpZmljYXRpb24ucG9zdChUSVRMRSwgJ+ayoeaXoCBUb2tlbicsICfor7flhYXovazlj6/luIjms6jnmb3mj5Dlj5blrZfmrrUnKTsKICB9CiAgY29uc3QgdXNlclN0ciA9ICRwcmVmcy52YWx1ZUZvcktleShVU0VSX0tFWSk7CiAgaWYgKHVzZXJTdHIpIHsKICAgIHRyeSB7IGNvbnN0IHUgPSBKU09OLnBhcnNlKHVzZXJTdHIpOyBjb25zb2xlLmxvZygn55So5oi3OiAnICsgKHUubmlja05hbWUgfHwgdS5yZWFsTmFtZSkpOyB9IGNhdGNoIHt9CiAgfQogICRkb25lKCk7ICAgICAgICAgICAvLyDihpAgWOW/heiJsumAguWcqCAkZG9uZSgpCn0KCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIOWFpeWPowovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKaWYgKHR5cGVvZiAkcmVzcG9uc2UgIT09ICd1bmRlZmluZWQnICYmICRyZXNwb25zZSkgewogIG9uUmVzcG9uc2UoJHJlc3BvbnNlLmJvZHkpOwp9IGVsc2UgaWYgKHR5cGVvZiAkcmVxdWVzdCAhPT0gJ3VuZGVmaW5lZCcgJiYgJHJlcXVlc3QgJiYgdHlwZW9mICRyZXNwb25zZSA9PT0gJ3VuZGVmaW5lZCcpIHsKICBvblJlcXVlc3QoJHJlcXVlc3QuaGVhZGVycyk7Cn0gZWxzZSB7CiAgb25NYW51YWwoKTsKfQo=
+/*
+ * 希沃 Token 获取脚本 — for Quantumult X
+ * 
+ * 【模式一】script-response-body（主要方式）
+ *   捕获登录 API 响应 → 提取 token → 通知用户
+ *   配置: url script-response-body https://...
+ * 
+ * 【模式二】script-request-header（备用）
+ *   从请求 Cookie 中提取 x-auth-token
+ *   配置: url script-request-header https://...
+ * 
+ * 【模式三】手动运行
+ *   在 QX 脚本编辑器中执行 main() 查看已保存的 token
+ * 
+ * ====== 重要 ======
+ * 所有路径都必须以 $done() 结尾，否则 QX 会挂起。
+ */
+
+// ==================== 配置 ====================
+const TOKEN_KEY = 'seewo_x_auth_token';
+const USER_KEY  = 'seewo_user_info';
+const TITLE     = '希沃 Token';
+
+// ==================== 提取函数 ====================
+
+function extractToken(body) {
+  try {
+    const d = JSON.parse(body);
+    return d?.data?.token || null;
+  } catch (e) {
+    console.log('parse error: ' + e.message);
+    return null;
+  }
+}
+
+function extractUser(body) {
+  try {
+    const u = JSON.parse(body).data?.user;
+    if (!u) return null;
+    return { uid: u.uid, nickName: u.nickName, realName: u.realName, accountId: u.accountId, unitId: u.unitId };
+  } catch { return null; }
+}
+
+function tokenFromCookie(cookie) {
+  const m = cookie?.match(/(?:^|;)\s*x-auth-token=([^;]+)/);
+  return m ? m[1] : null;
+}
+
+// ==================== 处理函数 ====================
+
+/** script-response-body：从登录响应中提取 token */
+function onResponse(body) {
+  const token = extractToken(body);
+  if (token) {
+    $prefs.setValueForKey(token, TOKEN_KEY);
+    const user = extractUser(body);
+    if (user) $prefs.setValueForKey(JSON.stringify(user), USER_KEY);
+    $notify(TITLE, '✅ Token 获取成功', token.substring(0, 20) + '...');
+    console.log('token saved: ' + token);
+  } else {
+    $notify(TITLE, '❌ 获取失败', '响应中未找到 token 字段');
+  }
+  $done({ body });   // ← 必须调用 $done()
+}
+
+/** script-request-header：从 Cookie 中提取 token */
+function onRequest(headers) {
+  const cookie = headers['Cookie'] || headers['cookie'] || '';
+  const token = tokenFromCookie(cookie);
+  if (token) {
+    const old = $prefs.valueForKey(TOKEN_KEY);
+    if (old !== token) {
+      $prefs.setValueForKey(token, TOKEN_KEY);
+      $notify(TITLE, '✅ Token 已刷新', token.substring(0, 20) + '...');
+    }
+  }
+  $done($request);   // ← 必须调用 $done()
+}
+
+/** 手动运行：查看已保存的 token */
+function onManual() {
+  const token = $prefs.valueForKey(TOKEN_KEY);
+  if (token) {
+    console.log('Token: ' + token);
+    $notify(TITLE, '🔑 已保存的 Token', token);
+  } else {
+    $notify(TITLE, '⚠️ 暂无 Token', '请先打开希沃白板触发登录');
+  }
+  const userStr = $prefs.valueForKey(USER_KEY);
+  if (userStr) {
+    try { const u = JSON.parse(userStr); console.log('用户: ' + (u.nickName || u.realName)); } catch {}
+  }
+  $done();           // ← 必须调用 $done()
+}
+
+// ==================== 入口 ====================
+
+if (typeof $response !== 'undefined' && $response) {
+  onResponse($response.body);
+} else if (typeof $request !== 'undefined' && $request && typeof $response === 'undefined') {
+  onRequest($request.headers);
+} else {
+  onManual();
+}
