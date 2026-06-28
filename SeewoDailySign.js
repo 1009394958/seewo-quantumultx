@@ -1,1 +1,199 @@
-LyoKICog5bi45rO4IOavj+WkqeetleeUqOizh+acrCAtLSBmb3IgUXVhbnR1bXVsdCBYCiAqCiAqIOaKleWQj++8midzaWduLWluJyDmsqHnu4/ov4flpKflsI/mnIDmlrDmlofmnKwKICoKLy8gPT09PT09PT09PT09PT09PT09PQovLyDluLjmlbAKLy8gPT09PT09PT09PT09PT09PT09PQoKY29uc3QgVE9LRU5fS0VZID0gJ3NlZXdvX3hfYXV0aF90b2tlbic7CmNvbnN0IFVTRVJfS0VZICA9ICdzZWV3b191c2VyX2luZm8nOwpjb25zdCBUSVRMRSAgICAgPSAn5bi45rO4IOetlOWIhic7Cgpjb25zdCBTSUdOX0FQSSAgID0gJ2h0dHBzOi8vZWFzaW5vdGUuc2Vld28uY29tL2V4dGVuZC9hcGlzJzsKY29uc3QgTEVWRUxfQVBJICA9ICdodHRwczovL2VkdS5zZWV3by5jb20vYXBpL3YyL3VzZXIvbGV2ZWw/Y2hlY2tTaWduTG90dGVyeT0xJzsKCmNvbnN0IENPTU1PTl9IRUFERVJTID0gewogICdBY2NlcHQnICAgICAgICAgICA6ICdhcHBsaWNhdGlvbi9qc29uLCB0ZXh0L3BsYWluLCAqLyonLAogICdBY2NlcHQtTGFuZ3VhZ2UnICA6ICd6aC1DTix6aC1IYW5zO3E9MC45JywKICAnQ29udGVudC1UeXBlJyAgICAgOiAnYXBwbGljYXRpb24vanNvbicsCiAgJ09yaWdpbicgICAgICAgICAgIDogJ2h0dHBzOi8vZWFzaW5vdGUuc2Vld28uY29tJywKICAnUmVmZXJlcicgICAgICAgICAgOiAnaHR0cHM6Ly9lYXNpbm90ZS5zZWV3by5jb20vZXh0ZW5kL2FwcC9kYWlseXNpZ24nLAogICdVc2VyLUFnZW50JyAgICAgICA6ICdNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzcgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBNb2JpbGUvMTVFMTQ4IEVOQXBwLzIuMS41Mi4yIE5hdGl2ZVZlcnNpb24vNDcgTW9kZWwvaVBob25lIDE1IFBybyBNYXgnLAp9OwoKY29uc3QgQ0hFQ0tfSEVBREVSUyA9IHsKICAnQWNjZXB0JyAgICAgICAgICA6ICcqLyonLAogICdBY2NlcHQtTGFuZ3VhZ2UnIDogJ3poLUhhbnMtQ047cT0xLCBlbi1DTjtxPTAuOScsCiAgJ1gtQ3J5cHRvLVZlcnNpb24nOiAnMScsCiAgJ3gtYXV0aC1yZWZlcicgICAgOiAnRW5BcHBJT1MnLAogICdVc2VyLUFnZW50JyAgICAgIDogJ0VOX2lPUy8yLjEuODYgKGlQaG9uZTsgaU9TIDI2LjAuMTsgU2NhbGUvMy4wMCknLAp9OwoKZnVuY3Rpb24gYnVpbGRDb29raWUodG9rZW4pIHsKICByZXR1cm4gYC14LWF1dGgtdG9rZW49JHt0b2tlbn07IHgtdG9rZW49JHt0b2tlbn07IHgtYXV0aC1hcHA9RWFzaU5vdGVJT1M7IGNsaWVudF9jaGFubmVsPUFwcCBTdG9yZTsgYXBwX3ZlcnNpb249Mi4xLjUyLjI7IG9zX3ZlcnNpb249MjYuMC4xYDsKfQoKZnVuY3Rpb24gdHMoKSB7IHJldHVybiBEYXRlLm5vdygpLnRvU3RyaW5nKCk7IH0KZnVuY3Rpb24gbG9nKG0pIHsgY29uc29sZS5sb2cobSk7IH0KCi8vID09PT09PT09PT09PT09PT09PT09Ci8vIEhUVFAg6K+35rGBCi8vID09PT09PT09PT09PT09PT09PT09CgpmdW5jdGlvbiByZXEodXJsLCBtZXRob2QsIGhlYWRlcnMsIGJvZHkpIHsKICBjb25zdCBvcHRzID0geyB1cmwsIG1ldGhvZCwgaGVhZGVycywgYm9keTogYm9keSA/IEpTT04uc3RyaW5naWZ5KGJvZHkpIDogJycgfTsKICBpZiAoYm9keSkgb3B0cy5oZWFkZXJzWydDb250ZW50LVR5cGUnXSA9ICdhcHBsaWNhdGlvbi9qc29uJzsKICBvcHRzLmhlYWRlcnNbJ0NvbnRlbnQtTGVuZ3RoJ10gPSBvcHRzLmJvZHkubGVuZ3RoLnRvU3RyaW5nKCk7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICR0YXNrLmZldGNoKG9wdHMpLnRoZW4ociA9PiByZXNvbHZlKHsgc3RhdHVzOiByLnN0YXR1c0NvZGUsIGJvZHk6IHIuYm9keSB9KSwgZSA9PiByZWplY3QoZSkpOwogIH0pOwp9CgovLyA9PT09PT09PT09PT09PT09PT09PQovLyDnrZXlhoTmtY/op4gKLy8gPT09PT09PT09PT09PT09PT09PT0KCmZ1bmN0aW9uIHNpZ25BcGkoYWN0aW9uLCB0b2tlbikgewogIGNvbnN0IHVybCA9IGAke1NJR05fQVBJfT9hY3Rpb25OYW1lPSR7YWN0aW9ufSZ0cz0ke3RzKCl9YDsKICByZXR1cm4gcmVxKHVybCwgJ1BPU1QnLCB7IC4uLkNPTU1PTl9IRUFERVJTLCBDb29raWU6IGJ1aWxkQ29va2llKHRva2VuKSB9LCB7IF9jc3JmOiAnJyB9KTsKfQoKYXN5bmMgZnVuY3Rpb24gZG9TaWduKHRva2VuKSB7CiAgbG9nKCc9PT0g5byA5aeL562U5YiGID09PScpOwogIGNvbnN0IHIxID0gYXdhaXQgc2lnbkFwaSgnUlVMRV9BV0FSRF9MSVNUJywgdG9rZW4pOwogIGNvbnN0IGQxID0gSlNPTi5wYXJzZShyMS5ib2R5KTsKICBpZiAoZDE/LmRhdGE/LnNpZ25SZWNvcmQ/LmJlZW5TaWduZWQpIHsKICAgIGxvZygn5LiK5peg5bey6ZW/5YiwJyk7CiAgICByZXR1cm4geyBvazogdHJ1ZSwgZG9uZTogdHJ1ZSB9OwogIH0KICBsb2coJ+acquetlOWIhiDot7Pmj5DmnInml6Dov4cgLi4uJyk7CiAgYXdhaXQgc2lnbkFwaSgnVE9EQVlfUkVDT1JEJywgdG9rZW4pOwogIGNvbnN0IHIzID0gYXdhaXQgc2lnbkFwaSgnU0lHTl9MT1RURVJZJywgdG9rZW4pOwogIGNvbnN0IGQzID0gSlNPTi5wYXJzZShyMy5ib2R5KTsKICBpZiAoIWQzIHx8IChkMy5zdGF0dXMgIT09IDIwMCAmJiBkMy5lcnJvcl9jb2RlICE9PSAwKSkgewogICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBlcnJvcjogZDM/Lm1lc3NhZ2UgfHwgJ+etlOWIhuWksei0pScgfTsKICB9CiAgYXdhaXQgbmV3IFByb21pc2UociA9PiBzZXRUaW1lb3V0KHIsIDEwMDApKTsKICBjb25zdCByNCA9IGF3YWl0IHJlcShMRVZFTF9BUEksICdHRVQnLCB7IC4uLkNIRUNLX0hFQURFUlMsIENvb2tpZTogYnVpbGRDb29raWUodG9rZW4pIH0pOwogIGNvbnN0IGxkID0gSlNPTi5wYXJzZShyNC5ib2R5KT8uZGF0YSB8fCB7fTsKICBjb25zb2xlLmxvZygnTGV2ZWwgZGF0YTogJyArIEpTT04uc3RyaW5naWZ5KGxkKSk7CiAgcmV0dXJuIHsKICAgIG9rOiB0cnVlLAogICAgZG9uZTogZmFsc2UsCiAgICBleHA6IGxkLmV4cGVyaWVuY2UsCiAgICBsZXZlbDogbGQubGV2ZWwsCiAgICBiYWRnZTogbGQubWVtYmVyU3ltYm9sLAogICAgbG90dGVyeTogbGQuYmVlblNpZ25Mb3R0ZXJ5LAogIH07Cn0KCi8vID09PT09PT09PT09PT09PT09PT09Ci8vIOmAmui/hyAoY3JvbiDniYjlvIUpCi8vID09PT09PT09PT09PT09PT09PT09Cgphc3luYyBmdW5jdGlvbiBtYWluKCkgewogIGxvZygnPT09IOW7jOayr+aXpeaVjOa1hCA9PT0nKTsKICBjb25zdCB0b2tlbiA9ICRwcmVmcy52YWx1ZUZvcktleShUT0tFTl9LRVkpOwogIGlmICghdG9rZW4pIHsKICAgICRub3RpZmljYXRpb24ucG9zdChUSVRMRSwgJ+mVv+WIsOWksei0pScsICfmnKrlj5HliLDlrZfmrrXvvIzor7flhYXmt7vlnZDnkIblnKgpJyk7CiAgICByZXR1cm47CiAgfQogIGxvZygnVG9rZW46ICcgKyB0b2tlbi5zdWJzdHJpbmcoMCwgMjApICsgJy4uLicpOwoKICBjb25zdCB1c2VyU3RyID0gJHByZWZzLnZhbHVlRm9yS2V5KFVTRVJfS0VZKTsKICBsZXQgdXNlciA9IG51bGw7CiAgaWYgKHVzZXJTdHIpIHsgdHJ5IHsgdXNlciA9IEpTT04ucGFyc2UodXNlclN0cik7IGxvZygn55So5oi3OiAnICsgKHVzZXIubmlja05hbWUgfHwgdXNlci5yZWFsTmFtZSkpOyB9IGNhdGNoIHt9IH0KCiAgY29uc3QgciA9IGF3YWl0IGRvU2lnbih0b2tlbik7CiAgaWYgKCFyLm9rKSB7CiAgICAkbm90aWZpY2F0aW9uLnBvc3QoSVRJTEUsICfnsr7lkqjor6LliqgnLCByLmVycm9yIHx8ICfmnKrlnKjmn6Xor4YnKTsKICB9IGVsc2UgaWYgKHIuZG9uZSkgewogICAgJG5vdGlmaWNhdGlvbi5wb3N0KFRJVExFLCAn5bey6ZW/5YiwJywgJ+aXoOWPr+WQpuWIsOi/m+aXtuW8gOWkqScpOwogIH0gZWxzZSB7CiAgICBjb25zdCBsaW5lcyA9IFsKICAgICAgJ+eahOWmguWAvDogJyArIChyLmV4cCA/PyAnPycpLAogICAgICAn562J566nOiAnICsgKHIubGV2ZWwgPz8gJz8nKSArIChyLmJhZGdlID8gJyAoJyArIHIuYmFkZ2UgKyAnKScgOiAnJyksCiAgICAgICflt7LnrZTliIbmvYvkuIonOiAoci5sb3R0ZXJ5ID8gJ+aYrycgOiAn5ZCmJyksCiAgICBdOwogICAgJG5vdGlmaWNhdGlvbi5wb3N0KFRJVExFLCAn562U5YiG5oiQ5YqfIScsIGxpbmVzLmpvaW4oJ1xuJykpOwogIH0KfQoKLy8gPT09PT09PT09PT09PT09PT09PT0KLy8g5a2X5ZCN54K55p2lCi8vID09PT09PT09PT09PT09PT09PT09CgppZiAodHlwZW9mICRyZXF1ZXN0ICE9PSAndW5kZWZpbmVkJyAmJiAkcmVxdWVzdCAmJiB0eXBlb2YgJHJlc3BvbnNlID09PSAndW5kZWZpbmVkJykgewogICRkb25lKCRyZXF1ZXN0KTsKfSBlbHNlIGlmICh0eXBlb2YgJHJlc3BvbnNlICE9PSAndW5kZWZpbmVkJyAmJiAkcmVzcG9uc2UpIHsKICAkZG9uZSh7IGJvZHk6ICRyZXNwb25zZS5ib2R5IH0pOwp9IGVsc2UgewogIG1haW4oKS50aGVuKCgpID0+ICRkb25lKCkpLmNhdGNoKCgpID0+ICRkb25lKCkpOwp9Cg==
+/*
+ * 希沃每日签到脚本 — for Quantumult X
+ *
+ * 【功能】
+ * 使用已保存的 Token 执行每日签到，查询结果后通知用户。
+ *
+ * 【定时任务配置】
+ *   0 9 * * * https://raw.githubusercontent.com/1009394958/seewo-quantumultx/main/SeewoDailySign.js, tag=希沃每日签到
+ *
+ * 【前置条件】
+ * 先通过 SeewoToken.js 获取并保存 Token。
+ *
+ * 【签到流程】
+ *   RULE_AWARD_LIST → 是否已签到？
+ *     是 → 通知「今日已签到」
+ *     否 → TODAY_RECORD → SIGN_LOTTERY → checkSignLottery → 通知结果
+ *
+ * ====== 重要 ======
+ * 所有路径都必须以 $done() 结尾，否则 QX 会挂起。
+ */
+
+// ==================== 常量 ====================
+
+const TOKEN_KEY = 'seewo_x_auth_token';
+const USER_KEY  = 'seewo_user_info';
+const TITLE     = '希沃签到';
+
+const SIGN_API   = 'https://easinote.seewo.com/extend/apis';
+const LEVEL_API  = 'https://edu.seewo.com/api/v2/user/level?checkSignLottery=1';
+
+const COMMON_HEADERS = {
+  'Accept'           : 'application/json, text/plain, */*',
+  'Accept-Language'  : 'zh-CN,zh-Hans;q=0.9',
+  'Content-Type'     : 'application/json',
+  'Origin'           : 'https://easinote.seewo.com',
+  'Referer'          : 'https://easinote.seewo.com/extend/app/dailysign',
+  'User-Agent'       : 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 ENApp/2.1.52.2 NativeVersion/47 Model/iPhone 15 Pro Max',
+};
+
+const CHECK_HEADERS = {
+  'Accept'          : '*/*',
+  'Accept-Language' : 'zh-Hans-CN;q=1, en-CN;q=0.9',
+  'X-Crypto-Version': '1',
+  'x-auth-refer'    : 'EnAppIOS',
+  'User-Agent'      : 'EN_iOS/2.1.86 (iPhone; iOS 26.0.1; Scale/3.00)',
+};
+
+function buildCookie(token) {
+  return `x-auth-token=${token}; x-token=${token}; x-auth-app=EasiNoteIOS; client_channel=App%20Store; app_version=2.1.52.2; os_version=26.0.1`;
+}
+
+function ts() { return Date.now().toString(); }
+
+function log(m) { console.log(m); }
+
+// ==================== HTTP 请求 ====================
+
+function req(url, method, headers, body) {
+  const opts = { url, method, headers, body: body ? JSON.stringify(body) : '' };
+  if (body) opts.headers['Content-Type'] = 'application/json';
+  opts.headers['Content-Length'] = opts.body.length.toString();
+  return new Promise((resolve, reject) => {
+    $task.fetch(opts).then(r => resolve({ status: r.statusCode, body: r.body }), e => reject(e));
+  });
+}
+
+// ==================== 签到步骤 ====================
+
+async function stepRule(token) {
+  const url = `${SIGN_API}?actionName=RULE_AWARD_LIST&ts=${ts()}`;
+  const h = { ...COMMON_HEADERS, Cookie: buildCookie(token) };
+  const r = await req(url, 'POST', h, { _csrf: '' });
+  const d = JSON.parse(r.body);
+  log('RULE: ' + JSON.stringify(d.data || d));
+  return d;
+}
+
+async function stepToday(token) {
+  const url = `${SIGN_API}?actionName=TODAY_RECORD&ts=${ts()}`;
+  const h = { ...COMMON_HEADERS, Cookie: buildCookie(token) };
+  await req(url, 'POST', h, { _csrf: '' });
+}
+
+async function stepSign(token) {
+  const url = `${SIGN_API}?actionName=SIGN_LOTTERY&ts=${ts()}`;
+  const h = { ...COMMON_HEADERS, Cookie: buildCookie(token) };
+  const r = await req(url, 'POST', h, { _csrf: '' });
+  const d = JSON.parse(r.body);
+  log('SIGN: ' + JSON.stringify(d.data || d));
+  return d;
+}
+
+async function stepCheck(token) {
+  const h = { ...CHECK_HEADERS, Cookie: buildCookie(token) };
+  const r = await req(LEVEL_API, 'GET', h);
+  const d = JSON.parse(r.body);
+  log('CHECK: ' + JSON.stringify(d.data || d));
+  return d;
+}
+
+// ==================== 完整签到流程 ====================
+
+async function doSign(token) {
+  log('=== 开始签到 ===');
+  const rule = await stepRule(token);
+  const rec = rule?.data?.signRecord || {};
+  if (rec.beenSigned) {
+    log('今日已签到 (连续 ' + rec.currentDay + ' 天)');
+    return { ok: true, done: true, day: rec.currentDay };
+  }
+  log('未签到, 开始执行...');
+  await stepToday(token);
+  const sr = await stepSign(token);
+  if (!sr || (sr.status !== 200 && sr.error_code !== 0)) {
+    return { ok: false, error: sr?.message || '签到失败' };
+  }
+  await new Promise(r => setTimeout(r, 1000));
+  const ch = await stepCheck(token);
+  const ld = ch?.data || {};
+  return {
+    ok: true,
+    done: false,
+    exp: ld.experience,
+    level: ld.level,
+    badge: ld.memberSymbol,
+    lottery: ld.beenSignLottery,
+    signDay: ld.signDay,
+    userData: ld,
+  };
+}
+
+// ==================== 通知 ====================
+
+function notifyResult(r, user) {
+  if (!r.ok) {
+    $notify(TITLE, '❌ 签到失败', r.error || '未知错误');
+    return;
+  }
+  if (r.done) {
+    $notify(TITLE, '✅ 今日已签到', '连续 ' + (r.day || '?') + ' 天');
+    return;
+  }
+  const lines = [
+    '经验值: ' + (r.exp ?? '?'),
+    '等级: ' + (r.level ?? '?') + (r.badge ? ' (' + r.badge + ')' : ''),
+    '已签到抽奖: ' + (r.lottery ? '是' : '否'),
+  ];
+  $notify(TITLE, '✅ 签到成功！', lines.join('\n'));
+}
+
+// ==================== 主入口（task 模式）====================
+
+async function main() {
+  log('=== 希沃每日签到 ===');
+  const token = $prefs.valueForKey(TOKEN_KEY);
+  if (!token) {
+    log('未找到 Token');
+    $notify(TITLE, '❌ 失败', '未找到 Token，请先登录获取');
+    return;
+  }
+  log('Token: ' + token.substring(0, 20) + '...');
+
+  const userStr = $prefs.valueForKey(USER_KEY);
+  let user = null;
+  if (userStr) { try { user = JSON.parse(userStr); log('用户: ' + (user.nickName || user.realName)); } catch {} }
+
+  const r = await doSign(token);
+  log('=== 结果: ' + (r.ok ? '成功' : '失败') + ' ===');
+  notifyResult(r, user);
+}
+
+// ==================== 被动模式 ====================
+
+function onRequest() {
+  const cookie = $request.headers['Cookie'] || $request.headers['cookie'] || '';
+  const m = cookie?.match(/(?:^|;)\s*x-auth-token=([^;]+)/);
+  if (m) {
+    const old = $prefs.valueForKey(TOKEN_KEY);
+    if (old !== m[1]) {
+      $prefs.setValueForKey(m[1], TOKEN_KEY);
+      log('Token 已刷新');
+    }
+  }
+  $done($request);
+}
+
+function onResponse() {
+  $done({ body: $response.body });
+}
+
+// ==================== 入口 ====================
+
+if (typeof $request !== 'undefined' && $request && typeof $response === 'undefined') {
+  onRequest();
+} else if (typeof $response !== 'undefined' && $response) {
+  onResponse();
+} else {
+  main().then(() => $done()).catch(() => $done());
+}
