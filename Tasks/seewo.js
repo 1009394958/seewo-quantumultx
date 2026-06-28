@@ -44,9 +44,10 @@ function buildCookie(token) {
 function ts() { return Date.now().toString(); }
 
 // ==================== HTTP 请求 ====================
-function req(url, method, body) {
-  var opts = { url: url, method: method || 'GET', headers: {} };
-  if (body) { opts.body = JSON.stringify(body); opts.headers['Content-Type'] = 'application/json'; }
+function req(url, method, body, headers) {
+  var opts = { url: url, method: method || 'GET', headers: headers || {} };
+  if (!headers) { opts.headers['Content-Type'] = 'application/json'; }
+  if (body) { opts.body = JSON.stringify(body); }
   return new Promise(function (resolve, reject) {
     $task.fetch(opts).then(function (r) { resolve({ status: r.statusCode, body: r.body }); }, function (e) { reject(e); });
   });
@@ -66,17 +67,17 @@ function extractUser(body) {
 function stepRule(token) {
   var h = JSON.parse(JSON.stringify(COMMON_H));
   h.Cookie = buildCookie(token);
-  return req(SIGN_API + '?actionName=RULE_AWARD_LIST&ts=' + ts(), 'POST', { _csrf: '' });
+  return req(SIGN_API + '?actionName=RULE_AWARD_LIST&ts=' + ts(), 'POST', { _csrf: '' }, h);
 }
 function stepSign(token) {
   var h = JSON.parse(JSON.stringify(COMMON_H));
   h.Cookie = buildCookie(token);
-  return req(SIGN_API + '?actionName=SIGN_LOTTERY&ts=' + ts(), 'POST', { _csrf: '' });
+  return req(SIGN_API + '?actionName=SIGN_LOTTERY&ts=' + ts(), 'POST', { _csrf: '' }, h);
 }
 function stepCheck(token) {
   var h = JSON.parse(JSON.stringify(CHECK_H));
   h.Cookie = buildCookie(token);
-  return req(LEVEL_API, 'GET');
+  return req(LEVEL_API, 'GET', null, h);
 }
 
 // ==================== 签到主逻辑 ====================
